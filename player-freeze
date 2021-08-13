@@ -1,0 +1,11 @@
+copy the loadstring obviously
+FE PLAYER FREEZER
+A free script that freezes everyone in da hood.
+-You need a boombox
+-It wont freeze mobile players
+If you have a boombox, just execute, and it freezes all players.
+Script: 
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/0nly6Ex/crypt/main/feplayerfreeze.lua"))()
+
+if you dont have boombox, try to buy it, or u cant use it :(
