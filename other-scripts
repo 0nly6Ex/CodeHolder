@@ -1,0 +1,65 @@
+copy the loadstring obviously
+
+BEST DA HOOD AIMBOT
+Features: Airshots, Prediction, Easy to use, ESP, Undetectable.
+Script: 
+loadstring(game:HttpGet('https://raw.githubusercontent.com/0nly6Ex/wfwf/main/aimbot'))()
+
+BEST DA HOOD CASH DROPPING TOOL
+Features: Chooses if you wanna cover tax (Dropping fee), and lets you choose the total amount to be dropped
+Copy EVERYTHING INCLUDING THE _G PART
+Script:
+
+--// Factors
+_G.Amount = 20000 --// Full amount you wanna drop like 100,000 (TOTAL AMOUNT YOU WANT TO DROP)
+_G.Tax = false --// If you want to cover the tax (30% fee), make this true, else make it false
+--// Handling
+loadstring(game:HttpGet("https://raw.githubusercontent.com/0nly6Ex/cashseller/main/master"))()
+
+ANTI CHEAT
+Features: Has mod detection and you can use some patched scripts, without getting detected/kicked!
+Script:
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/0nly6Ex/crypt/main/resources/anticheat.lua'))()
+
+LEGACY X CRACKED
+Features: Another da hood script, has some decent features. We removed the key/group system.
+Script:
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/0nly6Ex/crackedlegacyx/main/script.lua'))()
+
+SUPER AUTOFARM
+Features: A great autofarm, that dosent kick you after usage.
+Script:
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/0nly6Ex/crypt/main/resources/autofarm.lua'))()
+
+SHOE AUTOFARM
+Features: Autofarms the shoe job.
+Script:
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/0nly6Ex/crypt/main/resources/shoefarm.lua'))()
+
+HOSPITAL AUTOFARM
+Features: Autofarms the hospital job.
+Script:
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/0nly6Ex/crypt/main/resources/hospitalfarm.lua'))()
+
+INFINITE STAMINA
+Features: Infinite Da Hood Stamina
+Script:
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/0nly6Ex/crypt/main/resources/infinitestamina.lua'))()
+
+GOD MODE
+Features: A working da hood god mode!
+Script:
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/0nly6Ex/crypt/main/resources/godmode.lua'))()
+
+CHATLOGS
+Features: A great chatlogs script for any game!
+Script:
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/0nly6Ex/crypt/main/resources/chatlogs.lua'))()
